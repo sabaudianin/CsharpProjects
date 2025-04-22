@@ -1,27 +1,90 @@
-﻿Random random = new Random();
-int daysUntilExpiration = random.Next(12);
-int discountPercentage = 0;
-Console.WriteLine(daysUntilExpiration);
-if (daysUntilExpiration == 0)
+﻿// string? readResult;
+// string valueEntered = "";
+// int numValue = 0;
+// bool validNumber = false;
+
+// Console.WriteLine("Enter an integer value between 5 and 10");
+
+// do
+// {
+//     readResult = Console.ReadLine();
+//     if (readResult != null) 
+//     {
+//         valueEntered = readResult;
+//     }
+
+//     validNumber = int.TryParse(valueEntered, out numValue);
+
+//     if (validNumber == true)
+//     {
+//         if (numValue <= 5 || numValue >= 10)
+//         {
+//             validNumber = false;
+//             Console.WriteLine($"You entered {numValue}. Please enter a number between 5 and 10.");
+//         }
+//     }
+//     else 
+//     {
+//         Console.WriteLine("Sorry, you entered an invalid number, please try again");
+//     }
+// } while (validNumber == false);
+
+// Console.WriteLine($"Your input value ({numValue}) has been accepted.");
+
+// readResult = Console.ReadLine();
+
+using System.ComponentModel.DataAnnotations;
+
+string? readResult;
+string role ="";
+bool validEntry = false;
+
+do{
+Console.WriteLine("Enter your Role(Human,Bot,Dog)");
+readResult = Console.ReadLine();
+
+if(readResult != null)
 {
-    Console.WriteLine("Your subscription has expired.");
-}
-else if (daysUntilExpiration == 1)
-{
-    Console.WriteLine("Your subscription expires within a day!");
-    discountPercentage = 20;
-}
-else if (daysUntilExpiration <= 5)
-{
-    Console.WriteLine($"Your subscription expires in {daysUntilExpiration} days.");
-    discountPercentage = 10;
-}
-else if (daysUntilExpiration <= 10)
-{
-    Console.WriteLine("Your subscription will expire soon. Renew now!");
+   role = readResult.Trim();
 }
 
-if (discountPercentage > 0)
+if(role.ToLower() == "human" || role.ToLower() == "bot" || role.ToLower() == "dog"  )
 {
-    Console.WriteLine($"Renew now and save {discountPercentage}%.");
+   validEntry = true;
+}
+else{
+   Console.WriteLine($"the role \"{role}\" is not valid ");
+}
+
+}while(validEntry == false);
+
+Console.WriteLine($"Your input value ({role}) has been accepted.");
+readResult = Console.ReadLine();
+
+
+string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
+
+int stringsCount = myStrings.Length;
+
+string myString = "";
+int periodLocation=0;
+
+for(int i =0; i<stringsCount;i++){
+   myString=myStrings[i];
+   periodLocation = myString.IndexOf(".");
+
+   string mySentence;
+
+   while(periodLocation !=-1){
+mySentence = myString.Remove(periodLocation);
+
+myString = myString.Substring(periodLocation +1);
+
+myString = myString.TrimStart();
+
+periodLocation = myString.IndexOf(".");
+Console.WriteLine(mySentence);
+   }
+ mySentence = myString.Trim();
+    Console.WriteLine(mySentence);
 }
