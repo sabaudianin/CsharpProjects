@@ -1,0 +1,15 @@
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\ConvertingData\obj\Debug\net9.0\ConvertingData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\ConvertingData\obj\Debug\net9.0\ConvertingData.AssemblyInfoInputs.cache
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\ConvertingData\obj\Debug\net9.0\ConvertingData.AssemblyInfo.cs
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\ConvertingData\obj\Debug\net9.0\ConvertingData.csproj.CoreCompileInputs.cache
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\ConvertingData\obj\Debug\net9.0\ConvertingData.sourcelink.json
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\ConvertingData\bin\Debug\net9.0\ConvertingData.exe
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\ConvertingData\bin\Debug\net9.0\ConvertingData.deps.json
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\ConvertingData\bin\Debug\net9.0\ConvertingData.runtimeconfig.json
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\ConvertingData\bin\Debug\net9.0\ConvertingData.dll
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\ConvertingData\bin\Debug\net9.0\ConvertingData.pdb
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\ConvertingData\obj\Debug\net9.0\ConvertingData.dll
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\ConvertingData\obj\Debug\net9.0\refint\ConvertingData.dll
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\ConvertingData\obj\Debug\net9.0\ConvertingData.pdb
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\ConvertingData\obj\Debug\net9.0\ConvertingData.genruntimeconfig.cache
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\ConvertingData\obj\Debug\net9.0\ref\ConvertingData.dll

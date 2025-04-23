@@ -1,0 +1,15 @@
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\format\bin\Debug\net9.0\format.exe
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\format\bin\Debug\net9.0\format.deps.json
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\format\bin\Debug\net9.0\format.runtimeconfig.json
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\format\bin\Debug\net9.0\format.dll
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\format\bin\Debug\net9.0\format.pdb
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\format\obj\Debug\net9.0\format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\format\obj\Debug\net9.0\format.AssemblyInfoInputs.cache
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\format\obj\Debug\net9.0\format.AssemblyInfo.cs
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\format\obj\Debug\net9.0\format.csproj.CoreCompileInputs.cache
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\format\obj\Debug\net9.0\format.sourcelink.json
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\format\obj\Debug\net9.0\format.dll
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\format\obj\Debug\net9.0\refint\format.dll
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\format\obj\Debug\net9.0\format.pdb
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\format\obj\Debug\net9.0\format.genruntimeconfig.cache
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\ConvertData\format\obj\Debug\net9.0\ref\format.dll
