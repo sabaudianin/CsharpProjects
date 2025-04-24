@@ -1,0 +1,15 @@
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\firstMethod\bin\Debug\net9.0\firstMethod.exe
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\firstMethod\bin\Debug\net9.0\firstMethod.deps.json
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\firstMethod\bin\Debug\net9.0\firstMethod.runtimeconfig.json
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\firstMethod\bin\Debug\net9.0\firstMethod.dll
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\firstMethod\bin\Debug\net9.0\firstMethod.pdb
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\firstMethod\obj\Debug\net9.0\firstMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\firstMethod\obj\Debug\net9.0\firstMethod.AssemblyInfoInputs.cache
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\firstMethod\obj\Debug\net9.0\firstMethod.AssemblyInfo.cs
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\firstMethod\obj\Debug\net9.0\firstMethod.csproj.CoreCompileInputs.cache
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\firstMethod\obj\Debug\net9.0\firstMethod.sourcelink.json
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\firstMethod\obj\Debug\net9.0\firstMethod.dll
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\firstMethod\obj\Debug\net9.0\refint\firstMethod.dll
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\firstMethod\obj\Debug\net9.0\firstMethod.pdb
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\firstMethod\obj\Debug\net9.0\firstMethod.genruntimeconfig.cache
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\firstMethod\obj\Debug\net9.0\ref\firstMethod.dll
