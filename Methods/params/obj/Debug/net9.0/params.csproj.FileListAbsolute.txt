@@ -1,0 +1,15 @@
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\params\obj\Debug\net9.0\params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\params\obj\Debug\net9.0\params.AssemblyInfoInputs.cache
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\params\obj\Debug\net9.0\params.AssemblyInfo.cs
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\params\obj\Debug\net9.0\params.csproj.CoreCompileInputs.cache
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\params\obj\Debug\net9.0\params.sourcelink.json
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\params\bin\Debug\net9.0\params.exe
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\params\bin\Debug\net9.0\params.deps.json
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\params\bin\Debug\net9.0\params.runtimeconfig.json
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\params\bin\Debug\net9.0\params.dll
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\params\obj\Debug\net9.0\params.dll
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\params\obj\Debug\net9.0\refint\params.dll
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\params\obj\Debug\net9.0\params.pdb
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\params\obj\Debug\net9.0\params.genruntimeconfig.cache
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\params\obj\Debug\net9.0\ref\params.dll
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\params\bin\Debug\net9.0\params.pdb
