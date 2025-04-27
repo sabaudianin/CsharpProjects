@@ -1,0 +1,15 @@
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\methodsReturnValues\bin\Debug\net9.0\methodsReturnValues.exe
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\methodsReturnValues\bin\Debug\net9.0\methodsReturnValues.deps.json
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\methodsReturnValues\bin\Debug\net9.0\methodsReturnValues.runtimeconfig.json
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\methodsReturnValues\bin\Debug\net9.0\methodsReturnValues.dll
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\methodsReturnValues\obj\Debug\net9.0\methodsReturnValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\methodsReturnValues\obj\Debug\net9.0\methodsReturnValues.AssemblyInfoInputs.cache
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\methodsReturnValues\obj\Debug\net9.0\methodsReturnValues.AssemblyInfo.cs
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\methodsReturnValues\obj\Debug\net9.0\methodsReturnValues.csproj.CoreCompileInputs.cache
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\methodsReturnValues\obj\Debug\net9.0\methodsReturnValues.sourcelink.json
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\methodsReturnValues\obj\Debug\net9.0\methodsReturnValues.dll
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\methodsReturnValues\obj\Debug\net9.0\refint\methodsReturnValues.dll
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\methodsReturnValues\obj\Debug\net9.0\methodsReturnValues.pdb
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\methodsReturnValues\obj\Debug\net9.0\methodsReturnValues.genruntimeconfig.cache
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\methodsReturnValues\obj\Debug\net9.0\ref\methodsReturnValues.dll
+C:\Users\Olexim\Desktop\C#.NET\CsharpProjects\Methods\methodsReturnValues\bin\Debug\net9.0\methodsReturnValues.pdb
